@@ -6,7 +6,7 @@ An information retrieval technique patented in 1988. In the context of its appli
 
  LSI allows a search engine to determine what a page is about outside of specifically matching search query text. It looks at  “Themes” instead of “Keywords”.
 
-Linear Algebra techniques used in the project: Singular Value Decomposition, Cosine Similarity, Matrix properties.
+Latent Semantic Indexing uses "Singular Value Decomposition" to do this.
 
 ### Dataset: 
 
